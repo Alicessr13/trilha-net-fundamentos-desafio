@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("trilha-net-fundamentos-desafio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdd9bf5cac96828d9aae60b38f77336f7fcf87d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d56cb3f190ac7f5367f985467d1b27397c5f60c")]
 [assembly: System.Reflection.AssemblyProductAttribute("trilha-net-fundamentos-desafio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("trilha-net-fundamentos-desafio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

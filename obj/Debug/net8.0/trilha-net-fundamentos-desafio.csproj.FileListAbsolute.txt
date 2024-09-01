@@ -12,3 +12,4 @@ C:\Users\Alicessr\Documents\DIO\trilha-net-fundamentos-desafio\obj\Debug\net8.0\
 C:\Users\Alicessr\Documents\DIO\trilha-net-fundamentos-desafio\obj\Debug\net8.0\trilha-net-fundamentos-desafio.pdb
 C:\Users\Alicessr\Documents\DIO\trilha-net-fundamentos-desafio\obj\Debug\net8.0\trilha-net-fundamentos-desafio.genruntimeconfig.cache
 C:\Users\Alicessr\Documents\DIO\trilha-net-fundamentos-desafio\obj\Debug\net8.0\ref\trilha-net-fundamentos-desafio.dll
+C:\Users\Alicessr\Documents\DIO\trilha-net-fundamentos-desafio\obj\Debug\net8.0\trilha-net-fundamentos-desafio.sourcelink.json
