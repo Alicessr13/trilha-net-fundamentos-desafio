@@ -1,0 +1,14 @@
+C:\Users\Alicessr\Documents\DIO\trilha-net-fundamentos-desafio\bin\Debug\net8.0\trilha-net-fundamentos-desafio.exe
+C:\Users\Alicessr\Documents\DIO\trilha-net-fundamentos-desafio\bin\Debug\net8.0\trilha-net-fundamentos-desafio.deps.json
+C:\Users\Alicessr\Documents\DIO\trilha-net-fundamentos-desafio\bin\Debug\net8.0\trilha-net-fundamentos-desafio.runtimeconfig.json
+C:\Users\Alicessr\Documents\DIO\trilha-net-fundamentos-desafio\bin\Debug\net8.0\trilha-net-fundamentos-desafio.dll
+C:\Users\Alicessr\Documents\DIO\trilha-net-fundamentos-desafio\bin\Debug\net8.0\trilha-net-fundamentos-desafio.pdb
+C:\Users\Alicessr\Documents\DIO\trilha-net-fundamentos-desafio\obj\Debug\net8.0\trilha-net-fundamentos-desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\DIO\trilha-net-fundamentos-desafio\obj\Debug\net8.0\trilha-net-fundamentos-desafio.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\DIO\trilha-net-fundamentos-desafio\obj\Debug\net8.0\trilha-net-fundamentos-desafio.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\DIO\trilha-net-fundamentos-desafio\obj\Debug\net8.0\trilha-net-fundamentos-desafio.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\DIO\trilha-net-fundamentos-desafio\obj\Debug\net8.0\trilha-net-fundamentos-desafio.dll
+C:\Users\Alicessr\Documents\DIO\trilha-net-fundamentos-desafio\obj\Debug\net8.0\refint\trilha-net-fundamentos-desafio.dll
+C:\Users\Alicessr\Documents\DIO\trilha-net-fundamentos-desafio\obj\Debug\net8.0\trilha-net-fundamentos-desafio.pdb
+C:\Users\Alicessr\Documents\DIO\trilha-net-fundamentos-desafio\obj\Debug\net8.0\trilha-net-fundamentos-desafio.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\DIO\trilha-net-fundamentos-desafio\obj\Debug\net8.0\ref\trilha-net-fundamentos-desafio.dll
